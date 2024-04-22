@@ -1,0 +1,158 @@
+.signup{
+    width: 70%;
+    padding: 10px;
+    margin: 20px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(255, 255, 255, 0.596);
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  .carrybox {
+    padding: 8px;
+    margin: 10px;
+    background-color: rgba(255, 255, 255, 0.911);
+    border-radius: 20px;
+    padding: 10px;
+    overflow: hidden;
+  }
+  
+  .profile_img {
+    border: 10px solid #004bac;
+    border: 10px solid var(--theme_colour);
+    border-radius: 50%;
+    box-shadow: 0 4px 8px 0 #0003, 0 6px 20px 0 #00000030;
+    height: 150px;
+    width: 150px;
+}
+.bringitcenter {
+    margin-left: auto;
+    margin-right: auto;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+}
+div, input, p, textarea {
+    font-family: Calibri, serif;
+}
+.heading01 {
+    color: #004bac;
+    color: var(--theme_colour);
+    font-size: 30px;
+    margin: 10px;
+    text-align: center;
+}
+  .card-header {
+    align-items: center;
+    border-radius: 20px;
+    margin: 10px auto;
+    width: 400px;
+}
+   .heading02 {
+    color: #004bac;
+    color: var(--theme_colour);
+    font-weight: 700;
+}
+  .Passwordfield {
+    width: 100%;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    font-weight: bold;
+    resize: vertical;
+    color: rgb(128, 128, 128);
+    height: 45px;
+    display: inline-block;
+  }
+  .holdeye {
+    display: inline;
+    padding: 10px;
+    float: right;
+    cursor: pointer;
+  }
+  
+.EyeMark {
+    width: 20%;
+    display: inline;
+    font-weight: 700;
+    resize: vertical;
+    color: rgb(128, 128, 128);
+    height: 40px;
+    display: inline;
+    display: inline;
+  }
+  .enter_field {
+    width: 85%;
+}
+.Eyecenter, .enter_field {
+    color: grey;
+    display: inline;
+    font-weight: 700;
+    height: 23px;
+    resize: vertical;
+}
+
+.ptag {
+    color: grey;
+    font-weight: bolder;
+    padding: 10px;
+    text-align: justify;
+}
+  .submitcarry {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+  }
+  .inputfield {
+    width: 100%;
+    padding: 12px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    font-weight: bold;
+    resize: vertical;
+    color: rgb(128, 128, 128);
+    height: 25px;
+    display: inline-block;
+  }
+  .Passwordfield {
+    width: 100%;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    font-weight: bold;
+    resize: vertical;
+    color: rgb(128, 128, 128);
+    height: 45px;
+    display: inline-block;
+  }
+  .logo {
+    width: 30px;
+    margin: 5px;
+  }
+  .floatleft, .floatright {
+    display: inline;
+    padding: 10px;
+    width: 45%;
+}
+
+
+.floatleft {
+    float: left;
+}
+.floatright {
+    float: right;
+}
+
+
+.submitcarry {
+    align-items: center;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+label {
+    display: inline-block;
+    padding: 12px 12px 12px 0;
+}

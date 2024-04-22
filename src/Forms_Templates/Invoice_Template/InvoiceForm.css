@@ -1,0 +1,22 @@
+.invoice_root{
+    margin: auto;
+    margin-top: 2rem;
+    max-width: 800px;
+    padding: 2rem;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(198, 231, 245);
+
+}
+.table{
+    min-width: 800px;
+}
+
+@media (max-width:1200px){
+    .invoice_root{
+        width: 800px;
+        background-color: rgb(198, 231, 245);
+    
+
+    }
+}

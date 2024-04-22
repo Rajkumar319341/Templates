@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(145, 211, 241);
+    margin: 0; 
+    padding: 0; 
+    height: 100%; 
+}
+
+.contact_root {
+    background-color: rgb(145, 211, 241);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 1rem;
+}
+
+@media (min-width: 1200px) {
+    .contact_root {
+        padding: 1rem; 
+    }
+}

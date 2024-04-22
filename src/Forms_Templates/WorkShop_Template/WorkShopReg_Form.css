@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(145, 211, 241);
+    margin: 0; 
+    padding: 0; 
+    height: 100%; 
+}
+
+.workshop_root{
+    background-color: rgb(145, 211, 241);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 1rem;
+}
+

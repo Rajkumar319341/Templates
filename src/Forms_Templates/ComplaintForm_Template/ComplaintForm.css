@@ -1,0 +1,52 @@
+.complaint-form-container {
+  max-width: 100%; 
+  margin: 0 auto; 
+  padding: 20px; 
+}
+
+@media (min-width:1200px){
+  .complaint-form-container{
+    width: auto;
+  }
+  .center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 800px;
+    margin-left: 30rem;
+  }
+  
+}
+
+.Complaint_Button{
+  width: 150px;
+  margin-bottom: 1rem;
+}
+
+.center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.complaint_root {
+  background-color: rgb(145, 211, 241);
+  
+}
+
+@media (max-width: 1200px) {
+  .complaint-form-container {
+    width: auto;
+  }
+
+  .complaint-form-container td {
+    display: block;
+  }
+
+  .complaint-form-container td:not(:last-child) {
+    margin-bottom: 10px;
+  }
+
+ 
+}
